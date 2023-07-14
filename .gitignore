@@ -2,3 +2,4 @@ constant/polyMesh
 [0-9]*
 *.foam
 !0.orig
+log.*
